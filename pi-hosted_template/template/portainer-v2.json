@@ -383,7 +383,6 @@
 				}
 			]
 		},
-
 		{
 			"categories": [
 				"Downloaders",
@@ -2187,7 +2186,7 @@
 				"Tools"
 			],
 			"description": "[arm] Web File Browser which can be used as a middleware or standalone app.",
-			"image": "filebrowser/filebrowser:latest",
+			"image": "filebrowser/filebrowser:v2-armv7",
 			"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/main/pi-hosted_template/images/filebrowser.png",
 			"name": "filebrowser",
 			"note": "The default user and password is admin/admin.",
@@ -3788,7 +3787,7 @@
 					"container": "/config"
 				}
 			]
-    },
+		},
 		{
 			"categories": [
 				"Other",
